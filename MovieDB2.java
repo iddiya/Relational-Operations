@@ -2,7 +2,6 @@
 /*****************************************************************************************
  * @file  MovieDB.java
  *
- * @author   John Miller
  */
 
 import static java.lang.System.out;
