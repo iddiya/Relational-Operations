@@ -2,7 +2,6 @@
 /*****************************************************************************************
  * @file  KeyType.java
  *
- * @author   John Miller
  * 
  * @see http://leepoint.net/notes-java/data/expressions/22compareobjects.html
  */
